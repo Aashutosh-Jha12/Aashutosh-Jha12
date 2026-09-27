@@ -14,15 +14,15 @@ CSE Student • DSA & Problem Solving • C++ • Java • Web Development
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE Student
-* 💻 Currently focused on **Data Structures & Algorithms**
-* 🚀 Practicing problem solving with **C++**
-* ☕ Learning **Java**
-* 🌐 Exploring **Web Development**
-* 🧩 Regularly solving problems on **LeetCode**
-* 🔨 Building projects to strengthen my development skills
-* 🎯 Aspiring **Software Developer**
-* 📚 Always learning and improving one problem at a time
+- 🎓 B.Tech CSE Student
+- 💻 Currently focused on **Data Structures & Algorithms**
+- 🚀 Practicing problem solving with **C++**
+- ☕ Learning **Java**
+- 🌐 Exploring **Web Development**
+- 🧩 Regularly solving problems on **LeetCode**
+- 🔨 Building projects to strengthen my development skills
+- 🎯 Aspiring **Software Developer**
+- 📚 Always learning and improving one problem at a time
 
 ---
 
